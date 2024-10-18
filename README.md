@@ -1,4 +1,4 @@
-# Food Ordering Web App (MERN Stack)
+# SB Foods-Food Ordering App
 
 ## Table of Contents
 - [Introduction](#introduction)
